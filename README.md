@@ -1,9 +1,5 @@
 # Customer Churn Prediction using Machine Learning
 
-## README.md
-
-# Customer Churn Prediction using Machine Learning
-
 ## Project Overview
 
 This project focuses on predicting customer churn in the telecom industry using machine learning techniques. Customer churn refers to customers discontinuing a company’s services. The objective of this project is to identify customers who are likely to churn based on demographic information, subscription details, service usage, and billing patterns.
