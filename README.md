@@ -1,4 +1,4 @@
-# Customer Churn Prediction using Machine Learning
+# Telecom Customer Churn Prediction using Machine Learning
 
 ## Project Overview
 
@@ -129,10 +129,14 @@ Models were evaluated using:
 
 ## Results
 
-### Model Performance
-
-* Achieved strong prediction accuracy using ensemble models such as Random Forest and XGBoost.
-* Random Forest performed effectively for feature importance analysis.
+* Successfully predicted customer churn using machine learning models.
+* Logistic regression and Random Forest achieved better prediction accuracy.
+* Identified important factors affecting churn such as :
+** Monthly Charges
+** Tenure
+** Contract Type
+** Technical Support
+** Payment Method 
 
 ### Key Business Insights
 
@@ -141,13 +145,6 @@ Models were evaluated using:
 * High monthly charges increased churn probability.
 * Customers without technical support or online security services had higher churn risk.
 * Long-term contract customers showed strong retention behavior.
-
-### Business Value
-
-* Helps businesses identify high-risk customers.
-* Enables targeted retention campaigns.
-* Improves customer satisfaction and retention.
-* Reduces revenue loss due to customer churn.
 
 ---
 
@@ -182,7 +179,7 @@ git clone <your-github-repository-link>
 ### Step 2: Open Project Directory
 
 ```bash
-cd customer-churn-prediction
+cd Telcom_Customer_Churn_Model
 ```
 
 ### Step 3: Install Required Libraries
@@ -202,7 +199,7 @@ jupyter notebook
 Open:
 
 ```bash
-Telco_Customer_Churn_(ML).ipynb
+Telco_Customer_Churn.ipynb
 ```
 
 ### Step 6: Run All Cells
@@ -252,10 +249,9 @@ Churn Probability: 0.07
 
 ## Future Improvements
 
-* Deploy using Streamlit or Flask
+* Deploy project using Streamlit
 * Add Hyperparameter Tuning
 * Implement SMOTE for class balancing
 * Build interactive dashboard
-* Integrate real-time prediction API
 
 ---
