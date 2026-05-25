@@ -132,11 +132,11 @@ Models were evaluated using:
 * Successfully predicted customer churn using machine learning models.
 * Logistic regression and Random Forest achieved better prediction accuracy.
 * Identified important factors affecting churn such as :
- * Monthly Charges
- * Tenure
- * Contract Type
- * Technical Support
- * Payment Method 
+  * Monthly Charges
+  * Tenure
+  * Contract Type
+  * Technical Support
+  * Payment Method 
 
 ### Key Business Insights
 
