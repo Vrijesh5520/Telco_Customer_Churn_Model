@@ -176,7 +176,7 @@ Models were evaluated using:
 ### Step 1: Clone Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/Vrijesh5520/Telco_Customer_Churn_Model.git
 ```
 
 ### Step 2: Open Project Directory
