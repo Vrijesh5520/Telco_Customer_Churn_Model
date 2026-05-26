@@ -156,6 +156,9 @@ Models were evaluated using:
 ## Churn Distribution
 <img width="687" height="491" alt="churn_distribution" src="https://github.com/user-attachments/assets/fcb4e890-00de-4ca9-be41-d4c3c9b76ded" />
 
+## Accuracy Comparison Chart
+<img width="868" height="579" alt="accuracy_comparison" src="https://github.com/user-attachments/assets/ac32a326-cc3a-46db-99d6-312486979d33" />
+
 ## Confusion Matrix
 <img width="678" height="573" alt="confusion_matrix" src="https://github.com/user-attachments/assets/0d646aa4-5aad-4a8a-bb34-f3ab18ace53d" />
 
