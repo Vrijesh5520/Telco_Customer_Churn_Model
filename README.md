@@ -259,5 +259,5 @@ Churn Probability: 0.07
 
 ---
 
-# Author
-* Vrijesh S. Balam
+## Author
+# Vrijesh S. Balam
